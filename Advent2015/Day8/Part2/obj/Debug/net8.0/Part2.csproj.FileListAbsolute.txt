@@ -1,0 +1,14 @@
+C:\Users\emir2\OneDrive\Desktop\random\Advent\Advent2015\Day8\Part2\bin\Debug\net8.0\Part2.exe
+C:\Users\emir2\OneDrive\Desktop\random\Advent\Advent2015\Day8\Part2\bin\Debug\net8.0\Part2.deps.json
+C:\Users\emir2\OneDrive\Desktop\random\Advent\Advent2015\Day8\Part2\bin\Debug\net8.0\Part2.runtimeconfig.json
+C:\Users\emir2\OneDrive\Desktop\random\Advent\Advent2015\Day8\Part2\bin\Debug\net8.0\Part2.dll
+C:\Users\emir2\OneDrive\Desktop\random\Advent\Advent2015\Day8\Part2\bin\Debug\net8.0\Part2.pdb
+C:\Users\emir2\OneDrive\Desktop\random\Advent\Advent2015\Day8\Part2\obj\Debug\net8.0\Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir2\OneDrive\Desktop\random\Advent\Advent2015\Day8\Part2\obj\Debug\net8.0\Part2.AssemblyInfoInputs.cache
+C:\Users\emir2\OneDrive\Desktop\random\Advent\Advent2015\Day8\Part2\obj\Debug\net8.0\Part2.AssemblyInfo.cs
+C:\Users\emir2\OneDrive\Desktop\random\Advent\Advent2015\Day8\Part2\obj\Debug\net8.0\Part2.csproj.CoreCompileInputs.cache
+C:\Users\emir2\OneDrive\Desktop\random\Advent\Advent2015\Day8\Part2\obj\Debug\net8.0\Part2.dll
+C:\Users\emir2\OneDrive\Desktop\random\Advent\Advent2015\Day8\Part2\obj\Debug\net8.0\refint\Part2.dll
+C:\Users\emir2\OneDrive\Desktop\random\Advent\Advent2015\Day8\Part2\obj\Debug\net8.0\Part2.pdb
+C:\Users\emir2\OneDrive\Desktop\random\Advent\Advent2015\Day8\Part2\obj\Debug\net8.0\Part2.genruntimeconfig.cache
+C:\Users\emir2\OneDrive\Desktop\random\Advent\Advent2015\Day8\Part2\obj\Debug\net8.0\ref\Part2.dll
