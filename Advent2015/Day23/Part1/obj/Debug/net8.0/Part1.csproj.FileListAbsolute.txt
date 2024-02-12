@@ -1,0 +1,15 @@
+C:\Users\emir2\OneDrive\Desktop\random\C#\AdventOfCode\Advent2015\Day23\Part1\obj\Debug\net8.0\Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir2\OneDrive\Desktop\random\C#\AdventOfCode\Advent2015\Day23\Part1\obj\Debug\net8.0\Part1.AssemblyInfoInputs.cache
+C:\Users\emir2\OneDrive\Desktop\random\C#\AdventOfCode\Advent2015\Day23\Part1\obj\Debug\net8.0\Part1.AssemblyInfo.cs
+C:\Users\emir2\OneDrive\Desktop\random\C#\AdventOfCode\Advent2015\Day23\Part1\obj\Debug\net8.0\Part1.csproj.CoreCompileInputs.cache
+C:\Users\emir2\OneDrive\Desktop\random\C#\AdventOfCode\Advent2015\Day23\Part1\obj\Debug\net8.0\Part1.sourcelink.json
+C:\Users\emir2\OneDrive\Desktop\random\C#\AdventOfCode\Advent2015\Day23\Part1\bin\Debug\net8.0\Part1.exe
+C:\Users\emir2\OneDrive\Desktop\random\C#\AdventOfCode\Advent2015\Day23\Part1\bin\Debug\net8.0\Part1.deps.json
+C:\Users\emir2\OneDrive\Desktop\random\C#\AdventOfCode\Advent2015\Day23\Part1\bin\Debug\net8.0\Part1.runtimeconfig.json
+C:\Users\emir2\OneDrive\Desktop\random\C#\AdventOfCode\Advent2015\Day23\Part1\bin\Debug\net8.0\Part1.dll
+C:\Users\emir2\OneDrive\Desktop\random\C#\AdventOfCode\Advent2015\Day23\Part1\bin\Debug\net8.0\Part1.pdb
+C:\Users\emir2\OneDrive\Desktop\random\C#\AdventOfCode\Advent2015\Day23\Part1\obj\Debug\net8.0\Part1.dll
+C:\Users\emir2\OneDrive\Desktop\random\C#\AdventOfCode\Advent2015\Day23\Part1\obj\Debug\net8.0\refint\Part1.dll
+C:\Users\emir2\OneDrive\Desktop\random\C#\AdventOfCode\Advent2015\Day23\Part1\obj\Debug\net8.0\Part1.pdb
+C:\Users\emir2\OneDrive\Desktop\random\C#\AdventOfCode\Advent2015\Day23\Part1\obj\Debug\net8.0\Part1.genruntimeconfig.cache
+C:\Users\emir2\OneDrive\Desktop\random\C#\AdventOfCode\Advent2015\Day23\Part1\obj\Debug\net8.0\ref\Part1.dll
