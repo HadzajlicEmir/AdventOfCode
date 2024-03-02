@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emir2\\OneDrive\\Desktop\\random\\Advent\\Day2\\Part1\\Part1.csproj": {}
+    "C:\\Users\\emir2\\OneDrive\\Desktop\\random\\C#\\AdventOfCode\\Advent2023\\Day2\\Part1\\Part1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emir2\\OneDrive\\Desktop\\random\\Advent\\Day2\\Part1\\Part1.csproj": {
+    "C:\\Users\\emir2\\OneDrive\\Desktop\\random\\C#\\AdventOfCode\\Advent2023\\Day2\\Part1\\Part1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emir2\\OneDrive\\Desktop\\random\\Advent\\Day2\\Part1\\Part1.csproj",
+        "projectUniqueName": "C:\\Users\\emir2\\OneDrive\\Desktop\\random\\C#\\AdventOfCode\\Advent2023\\Day2\\Part1\\Part1.csproj",
         "projectName": "Part1",
-        "projectPath": "C:\\Users\\emir2\\OneDrive\\Desktop\\random\\Advent\\Day2\\Part1\\Part1.csproj",
+        "projectPath": "C:\\Users\\emir2\\OneDrive\\Desktop\\random\\C#\\AdventOfCode\\Advent2023\\Day2\\Part1\\Part1.csproj",
         "packagesPath": "C:\\Users\\emir2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emir2\\OneDrive\\Desktop\\random\\Advent\\Day2\\Part1\\obj\\",
+        "outputPath": "C:\\Users\\emir2\\OneDrive\\Desktop\\random\\C#\\AdventOfCode\\Advent2023\\Day2\\Part1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emir2\\AppData\\Roaming\\NuGet\\NuGet.Config"

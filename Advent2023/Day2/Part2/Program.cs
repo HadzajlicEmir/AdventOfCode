@@ -1,4 +1,4 @@
-﻿var fileName = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "..", "..", "..", "..", "input2.txt"));
+﻿var fileName = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "..", "..", "..", "..","..", "..", "input2.txt"));
 int solution = 0;
 
 var lines = File.ReadAllLines(fileName);

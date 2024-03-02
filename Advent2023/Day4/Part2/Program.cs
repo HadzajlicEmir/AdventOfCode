@@ -1,4 +1,4 @@
-﻿var fileName = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "..", "..", "..", "..", "input4.txt"));
+﻿var fileName = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "..", "..", "..", "..", "..", "..", "input4.txt"));
 int solution = 0;
 int counter = 0;
 

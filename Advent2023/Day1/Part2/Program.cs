@@ -1,4 +1,4 @@
-﻿var fileName = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "..", "..", "..", "..", "advent.txt"));
+﻿var fileName = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, "..", "..", "..", "..", "..", "..", advent.txt"));
 var counter = 0;
 
 var lines = File.ReadAllLines(fileName);
